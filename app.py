@@ -37,7 +37,7 @@ password = st.text_input("Password", type="password")
 
 # ---------------- LOGIN CHECK ---------------- #
 
-if username == "admin" and password == "1234":
+if username == "pragal" and password == "2006":
 
     st.success("Login Successful ✅")
 
